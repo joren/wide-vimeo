@@ -1,0 +1,10 @@
+{
+   "content_scripts": [ {
+      "include_globs": [ "http://*.vimeo.com/*", "http://vimeo.com/*"],
+			"css": [ "vimeo.css" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "Wider Vimeo style to get a wider video like in Youtube.",
+   "name": "Wider Vimeo",
+   "version": "0.1"
+}

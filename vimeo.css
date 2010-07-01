@@ -1,0 +1,12 @@
+.html5_player, .html5_player video{
+	width:845px !important;;
+	height:505px !important;
+}
+.html5_player{
+	margin-left:50px !important;
+	margin-bottom:10px !important;
+}
+.video_stuff{
+	float:none !important;
+	margin-top:5px !important;
+}
